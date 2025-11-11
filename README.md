@@ -2,7 +2,7 @@
 
 > **Partner Enablement Asset** - Connect Mistral Le Chat Enterprise to PostgreSQL databases using the Model Context Protocol (MCP)
 
-A production-ready MCP server that enables natural language queries against PostgreSQL databases through Mistral Le Chat, built with FastMCP for seamless integration and deployment.
+A MCP server that enables natural language queries against PostgreSQL databases through Mistral Le Chat, built with FastMCP for seamless integration and deployment.
 
 ---
 
